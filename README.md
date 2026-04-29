@@ -1,2 +1,2 @@
-# S3-04-terraform-ci
-Automatización de validación y despliegue de Terraform con GitHub Actions y LocalStack
+# S3-03-basico-terraform
+Práctica de Terraform donde se realiza la instalación del entorno y la creación de recursos básicos utilizando LocalStack como simulador de AWS. Incluye configuración del provider, despliegue de infraestructura y verificación mediante AWS CLI.
